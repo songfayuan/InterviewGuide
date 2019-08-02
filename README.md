@@ -1,2 +1,0 @@
-# InterviewGuide
-Created with CodeSandbox
